@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raulromero26&label=Profile%20views&color=0e75b6&style=flat" alt="raulromero26" /> </p>
 
-- 🌱 I’m currently learning **Advanced Angular, Vue, Docker**
+- 🌱 I’m currently learning **React and Node**
 
 - 👨‍💻 All of my projects are available at [I'm Working on it!](I'm Working on it!)
 
-- 💬 Ask me about **Angular**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **raul.romerod26@gmail.com**
 
