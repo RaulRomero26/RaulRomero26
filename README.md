@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raúl Romero Dardón</h1>
-<h3 align="center">A web developer from Mexico who works for the police</h3>
+<h3 align="center">A web developer from Mexico</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raulromero26&label=Profile%20views&color=0e75b6&style=flat" alt="raulromero26" /> </p>
 
