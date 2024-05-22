@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/raulrom26" target="blank"><img src="https://img.shields.io/twitter/follow/raulrom26?logo=twitter&style=for-the-badge" alt="raulrom26" /></a> </p>
 
-- 🔭 I’m currently working on **A.R.G.O.S.**
+- 🔭 I’m currently working on **Personal Projects**
 
-- 🌱 I’m currently learning **React, PostgreSQL**
+- 🌱 I’m currently learning **Nest.js, Dart**
 
 - 📫 How to reach me **raul.romerod26@gmail.com**
 
